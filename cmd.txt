@@ -1,0 +1,17 @@
+cd: permet de changer de répertoire
+cd .. : permet de remonter d'un répertoire (d'aller à son parent)
+
+mkdir : permet de créer des répertoires
+mkdir musique : créer des répertoires de musique
+man mkdir : permet d'avoir les options de mkdir.
+
+ls : permet de lister les fichiers et sous dossiers
+ls -l: permet d'obtenir plus d'information ( l = pour longue)
+ls -A : permet d'afficher les fichiers cachés (A pour All)
+ls -Al : permet d'afficher tout les fichiers, même caché, avec les détailk
+
+pwd : permet de savoir dans quel répertoire de l'arborescence on est localisé.
+
+sudo : permet à l'administrateur système d'accorder à certains utilisateurs (ou groupes) la possibilité de lancer une commande en tant qu'administrateur ou autre utilisateur.
+Cette commande nous servirait à déléguer des tâches d'administration spécifiques à d'autre utilisateurs faisable uniquement sur le root et par la même occasion, protéger ça machine
+de personnes mal intentionné.
